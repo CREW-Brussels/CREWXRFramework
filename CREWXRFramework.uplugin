@@ -26,10 +26,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "CREWNetworkFramework",
-			"Enabled": true
-		},
-		{
 			"Name": "ViveOpenXR",
 			"Enabled": true
 		},
